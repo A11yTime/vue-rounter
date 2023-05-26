@@ -1,0 +1,36 @@
+  {
+      "id": "4",
+      "text": "Practice a11y at 7:30am",
+      "day": "Delve into Accessibility",
+      "reminder": false
+    },
+    {
+      "id": "5",
+      "text": "Start Office at 9:00am (EST)",
+      "day": "Work hard & be focused",
+      "reminder": false
+    },
+    {
+      "id": "6",
+      "text": "Sign out at 6:30pm",
+      "day": "Mindfulness & Relax",
+      "reminder": false
+    },
+    {
+      "id": "7",
+      "text": "Quest of knowledge at 8:00pm",
+      "day": "Read books & listen podcast",
+      "reminder": false
+    },
+    {
+      "id": "8",
+      "text": "Day accountability at 9:30pm",
+      "day": "Recap the day & Plan for next",
+      "reminder": false
+    },
+    {
+      "id": "9",
+      "text": "Go to bed at 10:00pm",
+      "day": "Deep sleep & Explore",
+      "reminder": false
+    }
